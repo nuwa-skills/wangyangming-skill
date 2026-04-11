@@ -219,21 +219,6 @@ npx skills add Panmax/wangyangming-skill
 
 ---
 
-## 这个Skill是怎么造出来的
-
-由 [女娲.skill](https://github.com/alchaincyf/nuwa-skill) 自动生成。
-
-女娲的工作流程：输入一个名字 → 多个Agent并行调研（著作/对话/表达/批评/决策/时间线）→ 交叉验证提炼心智模型 → 构建SKILL.md → 质量验证。
-
-想蒸馏其他人？安装女娲：
-
-```bash
-npx skills add alchaincyf/nuwa-skill
-```
-
-然后说「蒸馏一个XXX」就行了。
-
----
 
 ## 仓库结构
 
@@ -253,3 +238,13 @@ wangyangming-skill/
 ## 更多 Skill
 
 更多人物 Skill 请查看 [Awesome 女娲.skill](https://github.com/Panmax/awesome-nuwa)。
+
+---
+
+<div align="center">
+
+MIT License
+
+Made with [女娲.skill](https://github.com/alchaincyf/nuwa-skill)
+
+</div>
