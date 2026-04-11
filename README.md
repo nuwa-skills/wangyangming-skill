@@ -250,48 +250,6 @@ wangyangming-skill/
 
 ---
 
-## 更多.skill
+## 更多 Skill
 
-女娲已蒸馏的其他人物，每个都可独立安装：
-
-| 人物 | 领域 | 安装 |
-|------|------|------|
-| [冯唐.skill](https://github.com/Panmax/fengtang-skill) | 管理/文学/审美/成事 | `npx skills add Panmax/fengtang-skill` |
-| [张雪.skill](https://github.com/Panmax/zhangxue-skill) | 摩托车制造/草根创业/中国制造 | `npx skills add Panmax/zhangxue-skill` |
-| [孔子.skill](https://github.com/Panmax/kongzi-skill) | 仁义礼/修身/教育 | `npx skills add Panmax/kongzi-skill` |
-| [曾国藩.skill](https://github.com/Panmax/zengguofan-skill) | 自我管理/领导力/逆境突围 | `npx skills add Panmax/zengguofan-skill` |
-| [老子.skill](https://github.com/Panmax/laozi-skill) | 无为而治/道法自然/系统思维 | `npx skills add Panmax/laozi-skill` |
-| [苏格拉底.skill](https://github.com/Panmax/socrates-skill) | 提问术/批判性思维/认知谦逊 | `npx skills add Panmax/socrates-skill` |
-| [达芬奇.skill](https://github.com/Panmax/davinci-skill) | 跨学科创造力/观察方法/好奇心驱动 | `npx skills add Panmax/davinci-skill` |
-| [富兰克林.skill](https://github.com/Panmax/franklin-skill) | 自我修炼/实用主义/习惯系统 | `npx skills add Panmax/franklin-skill` |
-| [稻盛和夫.skill](https://github.com/Panmax/inamori-skill) | 经营哲学/利他主义/阿米巴管理 | `npx skills add Panmax/inamori-skill` |
-| [李小龙.skill](https://github.com/Panmax/brucelee-skill) | 截拳道哲学/自我突破/去除冗余 | `npx skills add Panmax/brucelee-skill` |
-| [巴菲特.skill](https://github.com/Panmax/buffett-skill) | 价值投资/长期主义/护城河思维 | `npx skills add Panmax/buffett-skill` |
-| [费曼.skill](https://github.com/Panmax/feynman-skill) | 第一性原理学习/化繁为简/科学直觉 | `npx skills add Panmax/feynman-skill` |
-| [乔布斯.skill](https://github.com/alchaincyf/steve-jobs-skill) | 产品/设计/战略 | `npx skills add alchaincyf/steve-jobs-skill` |
-| [芒格.skill](https://github.com/alchaincyf/munger-skill) | 投资/认知偏误/逆向思考 | `npx skills add alchaincyf/munger-skill` |
-| [马斯克.skill](https://github.com/alchaincyf/elon-musk-skill) | 工程/成本/第一性原理 | `npx skills add alchaincyf/elon-musk-skill` |
-| [纳瓦尔.skill](https://github.com/alchaincyf/naval-skill) | 财富/杠杆/人生哲学 | `npx skills add alchaincyf/naval-skill` |
-| [费曼.skill](https://github.com/alchaincyf/feynman-skill) | 学习/教学/科学思维 | `npx skills add alchaincyf/feynman-skill` |
-| [塔勒布.skill](https://github.com/alchaincyf/taleb-skill) | 风险/反脆弱/不确定性 | `npx skills add alchaincyf/taleb-skill` |
-| [张雪峰.skill](https://github.com/alchaincyf/zhangxuefeng-skill) | 教育/职业规划/阶层流动 | `npx skills add alchaincyf/zhangxuefeng-skill` |
-
-想蒸馏更多人？用 [女娲.skill](https://github.com/alchaincyf/nuwa-skill)，输入任何名字即可。
-
-## 许可证
-
-MIT — 随便用，随便改，随便蒸馏。
-
----
-
-<div align="center">
-
-*此心不动，随机而动。*
-
-<br>
-
-MIT License
-
-Made with [女娲.skill](https://github.com/alchaincyf/nuwa-skill)
-
-</div>
+更多人物 Skill 请查看 [Awesome 女娲.skill](https://github.com/Panmax/awesome-nuwa)。
